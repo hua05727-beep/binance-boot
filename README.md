@@ -1,6 +1,8 @@
 # binance-boot
 
-**English:** Unofficial fan-made Binance desktop boot animation for Windows. About 25 seconds of black-and-gold intro, then a 2-second crossfade into the real Binance window. Download `startup.mp4` and `startup_nomusic.mp4` from the [v1.0.0 release](https://github.com/hua05727-beep/binance-boot/releases/tag/v1.0.0) into `media/`. Not affiliated with Binance — see [NOTICE.md](NOTICE.md). Step-by-step commands: [docs/USAGE.md](docs/USAGE.md).
+English: [README.en.md](README.en.md) / [docs/USAGE.en.md](docs/USAGE.en.md)
+
+**English:** Unofficial fan-made Binance desktop boot animation for Windows. About 25 seconds of black-and-gold intro, then a 2-second crossfade into the real Binance window. Download `startup.mp4` and `startup_nomusic.mp4` from the [v1.0.0 release](https://github.com/hua05727-beep/binance-boot/releases/tag/v1.0.0) into `media/`. Not affiliated with Binance — see [NOTICE.md](NOTICE.md). The full English guide is [README.en.md](README.en.md). The English command walkthrough and `launcher.json` field table are in [docs/USAGE.en.md](docs/USAGE.en.md). Video checksums: [media/README.en.md](media/README.en.md).
 
 非官方的 Windows 币安桌面端开机动画。先播放约 25 秒黑金开场（海报 → BTC K 线 → Binance 标志），最后约 2 秒交叉淡化进真正的币安窗口。
 
@@ -214,8 +216,11 @@ $lnk.Save()
 
 | 路径 | 说明 |
 |------|------|
-| `README.md` | 本说明 |
+| `README.md` | 本说明（中文） |
+| `README.en.md` | 英文版说明 |
 | `docs/USAGE.md` | 逐步命令和 `launcher.json` 字段表 |
+| `docs/USAGE.en.md` | 英文逐步命令与字段表 |
+| `media/README.en.md` | 英文视频下载说明 |
 | `NOTICE.md` | 商标与素材声明 |
 | `LICENSE` | MIT 许可证 |
 | `media/` | 放置两个 MP4 的目录；视频本身在 Release |

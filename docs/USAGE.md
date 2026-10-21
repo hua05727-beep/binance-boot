@@ -1,5 +1,7 @@
 # 使用说明
 
+English: [README.en.md](../README.en.md) / [docs/USAGE.en.md](USAGE.en.md)
+
 这份文档是在 Windows 上从零跑通币安开机动画的命令步骤，以及 `launcher.json` 每个字段的含义。概览见仓库根目录的 [README.md](../README.md)。
 
 下面所有命令都在 **Windows PowerShell** 里执行，并且假设当前目录是仓库根目录（能看到 `scripts` 和 `config` 的那一层）。

@@ -1,5 +1,7 @@
 # media
 
+English: [media/README.en.md](README.en.md)
+
 开机视频放在 GitHub Release，不随 `git clone` 下载。请把下面两个文件保存到本目录（和这份说明放在一起）。
 
 发布页：<https://github.com/hua05727-beep/binance-boot/releases/tag/v1.0.0>
