@@ -1,0 +1,22 @@
+{
+  "AutoReplaceEntrypoints": false,
+  "ScanAllLocalDrives": false,
+  "Music": true,
+  "Video": "media/startup.mp4",
+  "AppLaunch": "C:\\Program Files\\Binance\\Binance.exe",
+  "ProcessPathContains": "\\Binance\\Binance.exe",
+  "ProcessNames": ["Binance"],
+  "HoldAt": 22.9,
+  "TransitionStart": 23.0,
+  "TransitionEnd": 24.95,
+  "MaxWaitSeconds": 60,
+  "Volume": 1,
+  "PlayerWidth": 1920,
+  "PlayerHeight": 1080,
+  "MatchClientToPlayer": true,
+  "ScreenFrames": [
+    {"Time": 23.0, "X": 0, "Y": 0, "Width": 1, "Height": 1},
+    {"Time": 24.95, "X": 0, "Y": 0, "Width": 1, "Height": 1}
+  ],
+  "DisplayName": "Binance 开机动画"
+}

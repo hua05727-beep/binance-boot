@@ -1,0 +1,15 @@
+.local/
+build/
+*.user
+*.suo
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.wav
+*.mp3
+music*
+*_tmp*
+.DS_Store
+Thumbs.db
+launcher.json.bak
